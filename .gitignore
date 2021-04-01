@@ -104,4 +104,8 @@ ENV/
 tests
 
 #old jenkinsfile
+<<<<<<< HEAD
 Jenkinsfile-old
+=======
+Jenkinsfile-old
+>>>>>>> b2a9fe2c38dc959b3f2108f2426fa889b286b9b1
