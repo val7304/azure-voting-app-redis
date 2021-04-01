@@ -100,5 +100,8 @@ ENV/
 # mypy
 .mypy_cache/
 
+#hide tests
+tests
+
 #old jenkinsfile
-.Jenkinsfile-old
+Jenkinsfile-old
